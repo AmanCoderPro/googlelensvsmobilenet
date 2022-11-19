@@ -38,7 +38,7 @@ body {
   bottom: 0;
   width: 100%;
   background-color: grey;
-  line-height: 3;
+  line-height: 1.3;
   text-align: center;
 }
 
@@ -51,8 +51,8 @@ canvas {
 
 img {
     float: left;
-    height: 200;
-    width: 140;
+    height: 140;
+    width: 69;
 }
 
 .case {
@@ -66,4 +66,8 @@ img {
 
 h4 {
   color: azure;
+}
+
+span {
+  color: aliceblue;
 }
